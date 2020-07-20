@@ -1,0 +1,9 @@
+{
+    "Filesystem": {
+        "ROOT_DIRECTORY": "./tests/tservices/tstorage/root",
+        "MISC_DIRECTORY": "./tests/tservices/tstorage/misc"
+    },
+    "Sqlite": {
+        "CONNECTION_STRING": "./tests/tservices/tstorage/test.db"
+    }
+}
